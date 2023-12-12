@@ -1,4 +1,4 @@
-package lk.ijse.ijse;
+package lk.ijse;
 
 public class Girl implements Agreement {
     public void chat(){
